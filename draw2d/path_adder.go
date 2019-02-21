@@ -4,7 +4,7 @@
 package draw2d
 
 import (
-	"code.google.com/p/freetype-go/freetype/raster"
+	"github.com/gmarcais/freetype-go/freetype/raster"
 )
 
 type VertexAdder struct {
